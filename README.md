@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Parise</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitparise&label=Profile%20views&color=0e75b6&style=flat" alt="sumitparise" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17aA3bQrqOgTOlvJK7zxfMl49eq415CRY/view?usp=drive_link](https://drive.google.com/file/d/17aA3bQrqOgTOlvJK7zxfMl49eq415CRY/view?usp=drive_link)
 
-- ⚡ Fun fact **In my free time i love to play games**
+- ⚡ Fun fact **I enjoy exploring new technologies and playing PC games in my free time. 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
