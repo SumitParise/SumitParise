@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitparise&label=Profile%20views&color=0e75b6&style=flat" alt="sumitparise" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitparise" alt="sumitparise" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/sumitparise49" target="blank"><img src="https://img.shields.io/twitter/follow/sumitparise49?logo=twitter&style=for-the-badge" alt="sumitparise49" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Spring Boot, React.**
+- 💬 Ask me about **Spring Boot, Asp.NET, React.**
 
 - 📫 How to reach me **sumitparise49@gmail.com**
 
@@ -32,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitparise&show_icons=true&locale=en" alt="sumitparise" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitparise&" alt="sumitparise" /></p>
+
