@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumitparise49" target="blank"><img src="https://img.shields.io/twitter/follow/sumitparise49?logo=twitter&style=for-the-badge" alt="sumitparise49" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **Spring Boot, Asp.NET, React.**
 
